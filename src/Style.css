@@ -1,0 +1,14 @@
+:root {
+    --Pure-White: #FFFFFF;
+    --Cream-BG: #F2EAE2;
+    --Aurometal-Saurus: #6C7289;
+    --Deep-Aquamarine: #3D8168;
+    --Deep-Aquamarine-Hover: #1A4032;
+    --Gunmetal: #1C232B;
+}
+
+* {
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
